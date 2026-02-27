@@ -13,3 +13,4 @@ switch (browser) {
     default:
         console.log("We hope that this page looks ok!");
 }
+
