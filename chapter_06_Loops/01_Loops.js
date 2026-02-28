@@ -16,4 +16,6 @@ console.log(a1++ + ++a1 + ++a1 + a1++ ) // 5 + 7 +8 + 8 =28
 let b1 = 5
 console.log(b1-- + --b1 + --b1 + b1-- ) //5 + 3+ 2+2 = 12
 
+console.log(typeof NaN);
+
 
