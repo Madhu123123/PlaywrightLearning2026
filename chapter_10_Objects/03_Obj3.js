@@ -1,5 +1,5 @@
 const cal = {
-    value:0;
+    value:0,
     add(n){
         this.value +=n;
         return this;
